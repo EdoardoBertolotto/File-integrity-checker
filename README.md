@@ -1,2 +1,2 @@
-# File-integrity-checker-
+# File-integrity-checker
 Detect modified files via hashes
